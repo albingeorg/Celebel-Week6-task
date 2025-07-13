@@ -1,0 +1,10 @@
+{
+    "name": "OnPrem_to_AzureSQL_via_SHIR",
+    "properties": {
+        "activities": [],
+        "annotations": [
+            "SHIR"
+        ],
+        "description": "Extract data from on-premises using SHIR and load to Azure SQL."
+    }
+}

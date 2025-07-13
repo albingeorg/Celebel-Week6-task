@@ -1,0 +1,11 @@
+{
+    "name": "Incremental_Load_Daily",
+    "properties": {
+        "activities": [],
+        "annotations": [
+            "Incremental",
+            "Watermarking"
+        ],
+        "description": "Perform incremental data loads daily using watermarking."
+    }
+}

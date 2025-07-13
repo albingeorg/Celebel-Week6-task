@@ -1,0 +1,11 @@
+{
+    "name": "Retry_Logic_Pipeline",
+    "properties": {
+        "activities": [],
+        "annotations": [
+            "Retry",
+            "Resilience"
+        ],
+        "description": "Retry mechanism on failure for better resilience."
+    }
+}

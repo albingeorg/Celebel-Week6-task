@@ -1,0 +1,7 @@
+{
+    "name": "Monthly_Last_Saturday_Trigger",
+    "properties": {
+        "recurrence": {},
+        "description": "Trigger pipeline on the last Saturday of the month."
+    }
+}

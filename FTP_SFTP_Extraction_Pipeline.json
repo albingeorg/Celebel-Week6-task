@@ -1,0 +1,11 @@
+{
+    "name": "FTP_SFTP_Extraction",
+    "properties": {
+        "activities": [],
+        "annotations": [
+            "FTP",
+            "SFTP"
+        ],
+        "description": "Extract files from FTP/SFTP servers using ADF."
+    }
+}
